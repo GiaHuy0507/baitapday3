@@ -5,18 +5,9 @@
 img {
   width: 100%;
 }
-.content p {
-  margin-top: 60px;
-  margin-bottom: 60px;
-}
-.content ol {
-  margin-top: 60px;
-  margin-bottom: 60px;
-}
-.content ul {
-  margin-top: 60px;
-  margin-bottom: 60px;
-}
+.content p,
+.content ol,
+.content ul,
 .content blockquote {
   margin-top: 60px;
   margin-bottom: 60px;
