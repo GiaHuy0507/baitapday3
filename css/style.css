@@ -1,15 +1,22 @@
 .content {
-  margin: 0 auto;
   max-width: 800px;
+  margin: auto;
 }
-
-.content img {
-  max-width: 100%;
+img {
+  width: 100%;
 }
-
-.content ul,
-.content ol,
-.content p,
+.content p {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.content ol {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.content ul {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
 .content blockquote {
   margin-top: 60px;
   margin-bottom: 60px;
